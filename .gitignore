@@ -1,3 +1,4 @@
 cache/
 *.log
 firebase/data/
+firebase/firebase-export*
